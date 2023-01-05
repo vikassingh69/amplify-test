@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifytest4fd0e5e7": {}
+      },
+      "api": {
+        "amplifytest": {}
       }
     }
   }
